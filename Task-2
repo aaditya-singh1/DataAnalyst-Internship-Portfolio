@@ -1,1 +1,57 @@
+# Task 2 – Dashboard Development
 
+## Project Overview
+This task focuses on creating an **Interactive Power BI Dashboard** that visualizes key business metrics and KPIs to enable data-driven decision making.
+
+## Objectives
+- Design and develop an interactive Power BI dashboard
+- Track and visualize critical business KPIs
+- Create insightful data visualizations for stakeholder reporting
+- Enable real-time monitoring of business performance
+
+## Key Components
+
+### 1. Business KPIs
+- Revenue Metrics
+- Sales Performance
+- Customer Metrics
+- Operational Efficiency Indicators
+- Growth Trends
+
+### 2. Data Visualization
+- Interactive charts and graphs
+- Drill-down capabilities
+- Filter and slicer functionality
+- Real-time data refresh
+- Mobile-responsive design
+
+### 3. Dashboard Features
+- Executive summary view
+- Detailed performance analytics
+- Comparative analysis across periods
+- Trend analysis and forecasting
+- Custom KPI indicators
+
+## Technical Stack
+- **Power BI Desktop** – Dashboard development
+- **Data Sources** – SQL databases, Excel files, APIs
+- **DAX** – Data Analysis Expressions for calculations
+- **M Language** – Data transformation and cleaning
+
+## Deliverables
+- Interactive Power BI dashboard file (.pbix)
+- Dashboard documentation and user guide
+- KPI definitions and calculations
+- Data refresh schedule documentation
+
+## Project Outcomes
+- Improved visibility into business performance
+- Faster decision-making through real-time insights
+- Enhanced stakeholder reporting
+- Automated KPI tracking and monitoring
+
+---
+
+**Status**: In Development  
+**Completed at**: ApexPlanet Software Pvt. Ltd.  
+**Portfolio**: DataAnalyst-Internship-Portfolio
